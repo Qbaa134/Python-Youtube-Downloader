@@ -1,6 +1,3 @@
-Oto przykładowy plik `README.md` dla tego projektu:
-
-
 # YouTube Video & Audio Downloader
 
 Prosty skrypt Python do pobierania filmów i audio z YouTube za pomocą biblioteki `yt-dlp`.
