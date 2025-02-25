@@ -46,7 +46,6 @@ python downloader.py
 
 ### Pobieranie wideo:
 
-```
 Podaj URL wideo z YouTube: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 Wybierz opcję (1: wideo, 2: audio MP3): 1
 
@@ -57,16 +56,15 @@ Dostępne opcje wideo:
 Wybierz numer opcji wideo: 1
 
 Pobieranie zakończone!
-```
+
 
 ### Pobieranie audio:
 
-```
 Podaj URL wideo z YouTube: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 Wybierz opcję (1: wideo, 2: audio MP3): 2
 
 Pobieranie zakończone!
-```
+
 
 ## 📄 Struktura projektu
 
